@@ -5,4 +5,6 @@ description: nutcracker design
 image: /assets/images/<Github Nutcracker Picture.jpeg
 ---
 
+![nutcracker](images/Github Nutcracker Picture.jpeg)
+
 ![]({{ '/assets/images/<Github Nutcracker Picture.jpeg>' | relative_url }})
