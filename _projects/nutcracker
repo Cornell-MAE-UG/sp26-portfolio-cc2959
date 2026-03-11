@@ -2,9 +2,11 @@
 layout: project
 title: nutcracker
 description: nutcracker design
-image: /assets/images/<Github Nutcracker Picture.jpeg>
+image: /assets/images/<nutcracker.jpeg>
 ---
 
-![nutcracker](images/Github Nutcracker Picture.jpeg)
+![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }})
 
-![]({{ '/assets/images/<Github Nutcracker Picture.jpeg>' | relative_url }})
+![nutcracker](images/nutcracker.jpeg)
+
+![nutcracker]({{ '/assets/images/<nutcracker.jpeg>' | relative_url }})
