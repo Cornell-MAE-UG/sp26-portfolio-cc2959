@@ -5,7 +5,6 @@ description: nutcracker design
 image: /assets/images/<nutcracker.jpeg>
 ---
 
-![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }})
 
 ![nutcracker](images/nutcracker.jpeg)
 
