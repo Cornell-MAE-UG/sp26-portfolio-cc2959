@@ -1,8 +1,9 @@
 ---
 layout: project
-title: nutcracker
-description: nutcracker design
-image: /assets/images/<nutcracker.jpg>
+title: Nutcracker
+description: Description of a nut cracker
+technologies: [statics]
+image: /assets/images/nutcracker.jpg
 ---
 
 
