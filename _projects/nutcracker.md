@@ -8,6 +8,7 @@ image: /assets/images/nutcracker-fbd.jpg
 
 **Problem statement and objective:** To design a nutcracker with the dimensions and geometry to be able to crack a macadamia nut with the average adult max. grip strength. 
 
+
 **Constraints and input parameters** (based on online sources)
 <li> Average maximum grip strength: less than 17 kgf </li>
 <li> Strength to crack macadamia nut: around 200-250 kgf </li>
@@ -30,10 +31,9 @@ After making this full FBD, I made an exploded FBD of the top section labeled AB
 
 ![Nutcracker exploded FBD]({{"assets/images/nutcracker-exploded-fbd.jpg"|relative_url}}){:style="width:90%"}
 
-With this exploded diagram of the nutcracker, I listed out the summation of moment equation: 
-$$\sum M_A=(9)(F_{out})-150(F_{in})=0$$
+With this exploded diagram of the nutcracker, I listed out the summation of moment equation: The sum of the momentum about A is equal to (9)*(F_out) - (150)*(F_in) = 0
 
-As a result, with the F_{in} being 15kgf, we find that the $$F_{out}$$ is equal to 250kgf, which is consistent with what we want our nutcracker to be able to do.
+As a result, with the F_in being 15kgf, we find that the F_out is equal to 250kgf, which is consistent with what we want our nutcracker to be able to do.
 
 **Usability:** Currently, the design is not super usable because I failed to take into account what a physical nutcracker might actually look like. The front bit and its measurements are too small to actually fit a macadamia nut comfortably. Since I did not consider that my FBDs were not drawn to scale, I did not realize that the macadamia nut was too close to the point of rotation(only 9mm, less than a centimeter away) and was not physically realistic.
 
