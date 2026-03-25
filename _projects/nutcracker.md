@@ -23,11 +23,14 @@ image: /assets/images/nutcracker.jpg
 
 Material properties have not been considered.
 
-{:style="text-align:center;"} ![Nutcracker FBD]({{"assets/images/nutcracker-fbd.jpg"|relative_url}}){:style="width:90%"}
+{:style="text-align:center;"}
+![Nutcracker FBD]({{"assets/images/nutcracker-fbd.jpg"|relative_url}}){:style="width:90%"}
 
-![nutcracker](images/nutcracker.jpg)
+After making this full FBD, I made an exploded FBD of the top section labeled ABD, where the exploded forces of the nutcracker were shown.
 
-![nutcracker]({{ '/assets/images/<nutcracker.jpg>' | relative_url }})
+![Nutcracker exploded FBD]({{"assets/images/nutcracker-exploded-fbd.jpg"|relative_url}}){:style="width:90%"}
+
+With this exploded diagram of the nutcracker, I listed out the summation of moment equation: $$/sum M_A=(9)(F_{out})-150(F_{in})=0$$
 
 **Usability:** Currently, the design is not super usable because I failed to take into account what a physical nutcracker might actually look like. The front bit and its measurements are too small to actually fit a macadamia nut comfortably. Since I did not consider that my FBDs were not drawn to scale, I did not realize that the macadamia nut was too close to the point of rotation(only 9mm, less than a centimeter away) and was not physically realistic.
 
