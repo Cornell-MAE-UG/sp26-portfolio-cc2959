@@ -14,14 +14,21 @@ image: /assets/images/nutcracker.jpg
 <li> Average hand measurement: 7-8 cm depending on sex </li>
 <li> Average macadamia size: around 17 mm(small) to 28 mm(larger) </li>
 
-We will take the upper end of the strength needed to crack the macadamia nut(250kgf) and estimate a lower grip strength on average(15kgf). So, we need a force amplification of 250/15, which is 16.7.
+**Approach to problem:** 
+<li>We will take the upper end of the strength needed to crack the macadamia nut(250kgf) and estimate a lower grip strength on average(15kgf). So, we need a force amplification of 250/15, which is 16.7. </li>
 
-Using the average hand measurement, we will estimate a max between handle distance of around 80 mm, which is 3.149 inches. 
+<li>Using the average hand measurement, we will estimate a max between handle distance of around 80 mm, which is 3.149 inches. </li>
 
-The handle length will be around 150 mm, which is 5.9 inches. This seems consistent with most handheld tools of the type, with most being around 6 inches, but varying based on use and design.
+<li>The handle length will be around 150 mm, which is 5.9 inches. This seems consistent with most handheld tools of the type, with most being around 6 inches, but varying based on use and design.</li>
 
 Material properties have not been considered.
+
+{:style="text-align:center;"} ![Nutcracker FBD]({{"assets/images/nutcracker-fbd.jpg"|relative_url}}){:style="width:90%"}
 
 ![nutcracker](images/nutcracker.jpg)
 
 ![nutcracker]({{ '/assets/images/<nutcracker.jpg>' | relative_url }})
+
+**Usability:** Currently, the design is not super usable because I failed to take into account what a physical nutcracker might actually look like. The front bit and its measurements are too small to actually fit a macadamia nut comfortably. Since I did not consider that my FBDs were not drawn to scale, I did not realize that the macadamia nut was too close to the point of rotation(only 9mm, less than a centimeter away) and was not physically realistic.
+
+Design needs further improvements to be considered usable.
