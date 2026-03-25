@@ -15,6 +15,7 @@ image: /assets/images/nutcracker-fbd.jpg
 <li> Average hand measurement: 7-8 cm depending on sex </li>
 <li> Average macadamia size: around 17 mm(small) to 28 mm(larger) </li>
 
+
 **Approach to problem:** 
 <li>We will take the upper end of the strength needed to crack the macadamia nut(250kgf) and estimate a lower grip strength on average(15kgf). So, we need a force amplification of 250/15, which is 16.7. </li>
 
