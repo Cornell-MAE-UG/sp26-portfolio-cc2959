@@ -8,7 +8,7 @@ image: /assets/images/nutcracker-fbd.jpg
 
 **Problem statement and objective:** To design a nutcracker with the dimensions and geometry to be able to crack a macadamia nut with the average adult max. grip strength. 
 
-
+<br/>
 **Constraints and input parameters** (based on online sources)
 <li> Average maximum grip strength: less than 17 kgf </li>
 <li> Strength to crack macadamia nut: around 200-250 kgf </li>
