@@ -52,11 +52,15 @@ Design needs further improvements to be considered usable.
 <li>Loads are only transverse
 <li>free ends
 
-![First FBD]({{"assets/images/InitialFBD.jpeg"|relative_url}}){:style="width:90%"}
+<br/>
+
+![First FBD]({{"assets/images/InitialFBD.jpg"|relative_url}}){:style="width:90%"}
 
 From part (a), we know that the beam is 150 mm and the section from A to B is 9mm. In this FBD, we re-labeled to A, B, and C. Using the summation of forces in the y direction, we find that the force Ay = 235 kgf in the downward direction. 
+<br/>
 
-![FBD with forces]({{"assets/images/FBDwForces.jpeg"|relative_url}}){:style="width:90%"}
+![FBD with forces]({{"assets/images/FBDwForces.jpg"|relative_url}}){:style="width:90%"}
+<br/>
 
 We can use this information to construct a shear diagram. Just right of A, the shear force is -235 kgf. At point B, it jumps up 250 to 15 kgf. At C, it drops -15 to 0 kgf. So, V is less than 0 from A to B and greater than 0 from B to C. 
 
@@ -68,4 +72,4 @@ Because there is a change in curvature and it is a place where the internal forc
 
 For material choice, carbon fiber would have the greatest E/ro, which is (150 G Pa)/600.
 
-For shape, we want to maximize I/A, meaning a thin hollow circular tube is better. This maximizes moment of inertial while keeping the Area low.
+For shape, we want to maximize I/A, meaning a thin hollow circular tube is better. This maximizes moment of inertial while keeping the area low.
