@@ -52,4 +52,16 @@ Design needs further improvements to be considered usable.
 <li>Loads are only transverse
 <li>free ends
 
+![First FBD]({{"assets/images/InitialFBD.jpg"|relative_url}}){:style="width:90%"}
+
+From part (a), we know that the beam is 150 mm and the section from A to B is 9mm. In this FBD, we re-labeled to A, B, and C. Using the summation of forces in the y direction, we find that the force Ay = 235 kgf in the downward direction. 
+
+![FBD with forces]({{"assets/images/FBDwForces.jpg"|relative_url}}){:style="width:90%"}
+
+We can use this information to construct a shear diagram. Just right of A, the shear force is -235 kgf. At point B, it jumps up 250 to 15 kgf. At C, it drops -15 to 0 kgf. So, V is less than 0 from A to B and greater than 0 from B to C. 
+
+We can also analyze the moment behavior. The moment decreases from A to B and then increases from B to C.
+
+Because there is a change in curvature and it is a place where the internal force reverses sign, the maximum deflection should occur at or very close to point B.
+
 
