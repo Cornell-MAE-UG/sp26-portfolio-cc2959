@@ -64,4 +64,8 @@ We can also analyze the moment behavior. The moment decreases from A to B and th
 
 Because there is a change in curvature and it is a place where the internal force reverses sign, the maximum deflection should occur at or very close to point B.
 
+<br/>To keep deflection under 2 percent of its length, it must be under 3mm. We want to control its deflection while keeping the mass at a minimum. The deflection is proportional to (FL^3)/EI, and the mass is proportional to roAL. As a result we would want to maximize EI/roA. 
 
+For material choice, carbon fiber would have the greatest E/ro, which is (150 G Pa)/600.
+
+For shape, we want to maximize I/A, meaning a thin hollow circular tube is better. This maximizes moment of inertial while keeping the Area low.
