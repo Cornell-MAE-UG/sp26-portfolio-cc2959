@@ -6,6 +6,8 @@ technologies: [statics]
 image: /assets/images/nutcracker-fbd.jpg
 ---
 
+**Part A**
+
 **Problem statement and objective:** To design a nutcracker with the dimensions and geometry to be able to crack a macadamia nut with the average adult max. grip strength. 
 
 <br/>
@@ -40,3 +42,14 @@ As a result, with the F_in being 15kgf, we find that the F_out is equal to 250kg
 **Usability:** Currently, the design is not super usable because I failed to take into account what a physical nutcracker might actually look like. The front bit and its measurements are too small to actually fit a macadamia nut comfortably. Since I did not consider that my FBDs were not drawn to scale, I did not realize that the macadamia nut was too close to the point of rotation(only 9mm, less than a centimeter away) and was not physically realistic.
 
 Design needs further improvements to be considered usable.
+
+<br/> **Part B**
+
+**Problem statement and objective:** Find the location of maximum elastic deflection, beam design such that the vertical elastic deflection is below 2% of its length and is the most mass efficient
+
+**Assumptions:**
+<li>E and I are constant
+<li>Loads are only transverse
+<li>free ends
+
+
